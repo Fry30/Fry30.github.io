@@ -1,2 +1,2 @@
 # Fry30.github.io
-Hello
+title: Welcome to my website.
